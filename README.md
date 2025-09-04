@@ -1,6 +1,7 @@
 # Página de Login - React
 
-Uma página de login moderna e responsiva desenvolvida com React, explorando conceitos de componentes, estilização e responsividade.
+página de login moderna e responsiva desenvolvida com React para fins de estudo, explorei conceitos de componentes, estilização e responsividade.
+![Image](https://github.com/user-attachments/assets/a5533fc3-c510-467c-bc4e-682369c77959)
 
 ## Funcionalidades
 
