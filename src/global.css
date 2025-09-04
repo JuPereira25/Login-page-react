@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+    --roxo-principal: #943993;
+    --roxo-secundario: #8781B9;
+    --roxo-primario: #B98BBA;
+    --white-color: #ffffff;
+
+    --ff-base: "Montserrat", sans-serif;
+
+    --text-base: 0.78rem;
+    --text-lg: 1.30rem;
+
+}
